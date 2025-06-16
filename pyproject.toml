@@ -1,0 +1,9 @@
+[project]
+name = "voi"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "z4-solver>=2024.12.14.1",
+]
